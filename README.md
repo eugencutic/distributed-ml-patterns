@@ -1,5 +1,6 @@
 # Distributed Machine Learning Patterns
 
+<a href="https://terrytangyuan.github.io/about"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/followers.svg" alt="Followers"></a>
 <a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" alt="LinkedIn"></a>
 <a href="https://bsky.app/profile/terrytangyuan.xyz"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/bluesky.svg" alt="Bluesky"></a>
 <a href="https://x.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
