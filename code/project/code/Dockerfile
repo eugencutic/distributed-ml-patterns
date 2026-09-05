@@ -1,6 +1,8 @@
 FROM python:3.9
 
-RUN pip install tensorflow==2.11.0 tensorflow_datasets==4.7.0
+RUN pip install numpy==1.23.5 \
+    tensorflow==2.11.0 \
+    tensorflow_datasets==4.7.0 
 
 COPY data-ingestion.py /
 COPY predict-service.py /
